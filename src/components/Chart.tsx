@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react"
+import {  useState } from "react"
 import { dimensions } from "../utils/data"
 import BarChart from "./charts/BarChart"
 import { Dimension, Indicator, SubVariable, Variable } from "../types/model"
